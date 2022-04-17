@@ -1,0 +1,47 @@
+{
+    "section": {
+        "style": "styleInvisible",
+        "content": "About Me"
+    },
+    "content": {
+        "data": [
+            {
+                "name": "Profile Image",
+                "header": "",
+                "widget": {
+                    "name": "profileImage",
+                    "DOB": "10/05/1999",
+                    "CVLink": "",
+                    "imageLink": ""
+                }
+            },
+            {
+                "name": "contact",
+                "header": "CONTACT INFO",
+                "address": "Ward 16, Go Vap, TP HCM, Viet Nam",
+                "phone":"+84 969 359 810",
+                "mail": "philonglml9@gmail.com",
+                "widget":{
+                   "name": "contactInfoAndCode",
+                   "extendHref": {
+                       "phone": "tel:+84 969 359 810",
+                       "email": "mailto:philonglml9@gmail.com"
+                   },
+                   "code": {
+                       "content": "contactRequestCode",
+                       "contentType": "HTML"
+                   }
+                }
+            },
+            {
+                "name": "summary",
+                "widget":{
+                   "name": "badgeInfo",
+                   "header": "SUMMARY",
+                   "content": "summaryHTML",
+                   "contentType": "HTML"
+                }
+            }
+        ]
+    }
+}

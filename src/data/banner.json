@@ -1,0 +1,60 @@
+{
+    "name": {
+        "widget": false,
+        "content": "Bui Phi Long"
+    },
+    "fields": {
+        "widget": {
+            "name": "writing",
+            "visible": {
+                "content": "I'm a",
+                "position": "before",
+                "customStyle": "",
+                "customClass": ""
+            }
+        },
+        "content": [
+            "Developer",
+            "Computer Scientist"
+        ],
+        "customStyle": "",
+        "customClass": ""
+    },
+    "contacts": {
+        "widget": {
+            "name": "clickableIcon"
+        },
+        "content": [
+            {
+                "display": "Github",
+                "icon": "fa fas-github",
+                "tooltip": "Click to open Github in another tab",
+                "href": "https://github.com/builong1999"
+            },
+            {
+                "display": "Facebook",
+                "icon": "fa fas-facebook",
+                "tooltip": "Click to open Facebook in another tab",
+                "href": "https://www.facebook.com/bui.long.4"
+            },
+            {
+                "display": "Linkedin",
+                "icon": "fa fas-linkedin",
+                "tooltip": "Click to open Linkedin in another tab",
+                "href": "https://www.linkedin.com/in/builong7/"
+            },
+            {
+                "display": "Google Email",
+                "icon": "fa fas-mail",
+                "tooltip": "Click to send Mail in another tab",
+                "href": "mailto:philonglml9@gmail.com",
+                "action": {
+                    "name":"copyToClipBoard",
+                    "timeout": 500,
+                    "contentHTML": "Mail was successfully copy to your clipboard",
+                    "content":""
+                }
+            }
+        ]
+    }
+}
