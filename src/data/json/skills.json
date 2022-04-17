@@ -1,0 +1,74 @@
+{
+    "section": {
+        "style": "styleReload",
+        "content": "Skills"
+    },
+    "content": {
+        "colspan": 4,
+        "data": [
+            {
+                "name":"Programming Languages",
+                "colspan": 1,
+                "widget": {
+                    "name": "contentBreakdowns"
+                },
+                "content": "programming-languages",
+                "contentType": "HTML"
+            },
+            {
+                "name":"FRAMEWORKs",
+                "colspan": 1,
+                "widget": {
+                    "name": "contentBreakdowns"
+                },
+                "content": "frameworks",
+                "contentType": "HTML"
+            },
+            {
+                "name":"PLATFORMs",
+                "colspan": 1,
+                "widget": {
+                    "name": "contentBreakdowns"
+                },
+                "content": "platforms",
+                "contentType": "HTML"
+            },
+            {
+                "name":"DATABASEs",
+                "colspan": 1,
+                "widget": {
+                    "name": "contentBreakdowns"
+                },
+                "content": "databases",
+                "contentType": "HTML"
+            },
+            {
+                "name":"VERSION CONTROLs",
+                "colspan": 1,
+                "widget": {
+                    "name": "contentBreakdowns"
+                },
+                "content": "version-controls",
+                "contentType": "HTML"
+            },
+            {
+                "name":"LANGUAGUEs",
+                "colspan": 1,
+                "widget": {
+                    "name": "contentBreakdowns"
+                },
+                "content": "languages",
+                "contentType": "HTML"
+            },
+            {
+                "name":"OTHER KNOWLEDGE",
+                "colspan": 2,
+                "widget": {
+                    "name": "contentBreakdowns"
+                },
+                "content": "other-knowledge",
+                "contentType": "HTML"
+            }
+        ]
+    }
+}

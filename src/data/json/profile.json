@@ -4,9 +4,11 @@
         "content": "About Me"
     },
     "content": {
+        "colspan":3,
         "data": [
             {
                 "name": "Profile Image",
+                "colspan": 1,
                 "header": "",
                 "widget": {
                     "name": "profileImage",
@@ -17,6 +19,7 @@
             },
             {
                 "name": "contact",
+                "colspan": 1,
                 "header": "CONTACT INFO",
                 "address": "Ward 16, Go Vap, TP HCM, Viet Nam",
                 "phone":"+84 969 359 810",
@@ -35,6 +38,7 @@
             },
             {
                 "name": "summary",
+                "colspan": 1,
                 "widget":{
                    "name": "badgeInfo",
                    "header": "SUMMARY",
