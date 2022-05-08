@@ -1,0 +1,37 @@
+{
+    "section": {
+        "style": "normal",
+        "content": "Skills",
+        "widget": "sectionBanner"
+    },
+    "content": {
+        "widget": "vertialPage",
+        "data": [
+            {
+                "widget":"kanbanLeft",
+                "type": "horizontal",
+                "color": {
+                    "normal":"#2f9e86",
+                    "hover": "#2f9e86"
+                },
+                "name": "Software Engineering",
+                "tooltip": ["NOVOBI"],
+                "duration": ["Nov 2020", "Present"],
+                "content": "novobi-job",
+                "contentType": "HTML"
+            },
+            {
+                "widget":"kanbanRight",
+                "type": "horizontal",
+                "color": {
+                    "normal":"#c23434",
+                    "hover": "#2f9e86"
+                },
+                "name": "PERSONAL PROJECTS",
+                "duration": ["ALL THE TIME"],
+                "content": "personal-job",
+                "contentType": "HTML"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "section": {
+        "style": "normal",
+        "content": "Educations",
+        "widget": "sectionBanner"
+    },
+    "content": {
+        "widget": "vertialPage",
+        "data": [
+            {
+                "widget":"kanbanLeft",
+                "type":"rotateRightToLeft",
+                "color": {
+                    "normal":"#c0a9ea",
+                    "hover": "#c0a9ea"
+                },
+                "name": "Software Engineering",
+                "tooltip": ["HO CHI MINH UNIVERSITY OF TECHNOLOGY", "GPA: 3.2"],
+                "duration": ["2017", "2021"],
+                "content": "education-html",
+                "contentType": "HTML"
+            }
+        ]
+    }
+}

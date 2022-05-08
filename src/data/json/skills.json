@@ -1,10 +1,12 @@
 {
     "section": {
         "style": "styleReload",
-        "content": "Skills"
+        "content": "Skills",
+        "widget": "sectionBanner"
     },
     "content": {
         "colspan": 4,
+        "widget": "pageSplit",
         "data": [
             {
                 "name":"Programming Languages",
